@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dark Theme Website</title>
+  <style>
+    /* Basic styling for the dark theme */
+    body {
+      background-color: #111;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      text-align: center;
+      padding: 20px 0;
+    }
+    nav ul {
+      list-style-type: none;
+      padding: 0;
+      text-align: center;
+    }
+    nav ul li {
+      display: inline;
+      margin-right: 20px;
+    }
+    main {
+      text-align: center;
+      padding: 50px 0;
+    }
+    footer {
+      text-align: center;
+      padding: 20px 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Web pages Applicatuin </h1>
+  </header>
+
+  <main>
+    <h2>Made by Y</h2>
+    <p>Explore the pages below:</p>
+    <a href="page1.html"><button>Page 1</button></a>
+    <a href="page2.html"><button>Page 2</button></a>
+    <a href="page3.html"><button>Page 3</button></a>
+  </main>
+
+  <footer>
+    <p>Social Media Links</p>
+    <p>Contact Information</p>
+  </footer>
+</body>
+</html>
+
