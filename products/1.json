@@ -20,7 +20,7 @@
       "title": "Fresh Banana",
       "description": "Yellow ripe bananas, 1 dozen.",
       "price": 60,
-      "featured_image": "https://i.imgur.com/fEZ97U0.jpeg",
+      "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F6287_1.png&w=384&q=100",
       "status": "1",
       "created_at": "2022-02-12T08:00:00.000000Z"
     },
@@ -30,7 +30,7 @@
       "title": "Cow Milk (1 Ltr)",
       "description": "Fresh pasteurized cow milk, 1 litre pack.",
       "price": 50,
-      "featured_image": "https://i.imgur.com/ke4h8wV.jpeg",
+      "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F1021566_1.png&w=384&q=100",
       "status": "1",
       "created_at": "2022-03-10T08:15:30.000000Z"
     },
@@ -40,7 +40,7 @@
       "title": "Basmati Rice (1kg)",
       "description": "Premium quality Basmati rice, 1 kg pack.",
       "price": 150,
-      "featured_image": "https://i.imgur.com/l1uRHoZ.jpeg",
+      "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F823459_1.png&w=384&q=100",
       "status": "1",
       "created_at": "2022-01-22T08:34:00.000000Z"
     },
@@ -50,7 +50,7 @@
       "title": "Coffee Powder (100g)",
       "description": "Rich aromatic coffee powder, 100 grams.",
       "price": 120,
-      "featured_image": "https://i.imgur.com/X3I6EFM.jpeg",
+      "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F4286_1.png&w=384&q=100",
       "status": "1",
       "created_at": "2022-04-08T07:45:15.000000Z"
     },
@@ -60,17 +60,17 @@
       "title": "Whole Wheat Bread",
       "description": "Freshly baked whole wheat bread, 400g.",
       "price": 50,
-      "featured_image": "https://i.imgur.com/b0bMfKk.jpeg",
+      "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F2074034_1.png&w=384&q=100",
       "status": "1",
       "created_at": "2022-05-10T06:40:10.000000Z"
     },
     {
       "id": 7,
-      "slug": "vegetable_mixed",
-      "title": "Mixed Vegetables",
-      "description": "Freshly picked mixed seasonal vegetables, 1 kg.",
+      "slug": "sambar_poweder",
+      "title": "Sambar Poweder",
+      "description": "Sambar Poweder 100g",
       "price": 80,
-      "featured_image": "https://i.imgur.com/DZjmXfH.jpeg",
+      "featured_image": "https://luluindia-prod-assets.s3.ap-south-1.amazonaws.com/pims/grocery/products/820741_1.png",
       "status": "1",
       "created_at": "2022-06-15T08:00:00.000000Z"
     }
