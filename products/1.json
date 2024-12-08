@@ -1,7 +1,7 @@
 {
   "status": 200,
   "message": "success",
-  "totalRecord": 7,
+  "totalRecord": 20,
   "totalPage": 1,
   "data": [
     {
@@ -123,7 +123,87 @@
      "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F1234_1.png&w=384&q=100",
      "status": "1",
      "created_at": "2022-10-01T10:15:00.000000Z"
-   }
+   },
+   {
+    "id": 13,
+    "slug": "olive_oil",
+    "title": "Extra Virgin Olive Oil",
+    "description": "Premium quality extra virgin olive oil, 500ml.",
+    "price": 400,
+    "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F4290_1.png&w=384&q=100",
+    "status": "1",
+    "created_at": "2022-11-10T10:30:00.000000Z"
+  },
+  {
+    "id": 14,
+    "slug": "cereal_oats",
+    "title": "Oats Cereal",
+    "description": "Healthy rolled oats, 500g.",
+    "price": 180,
+    "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F4291_1.png&w=384&q=100",
+    "status": "1",
+    "created_at": "2022-11-12T11:00:00.000000Z"
+  },
+  {
+    "id": 15,
+    "slug": "pulses_redlentils",
+    "title": "Red Lentils",
+    "description": "Healthy red lentils, 1kg pack.",
+    "price": 120,
+    "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F4292_1.png&w=384&q=100",
+    "status": "1",
+    "created_at": "2022-11-15T09:45:00.000000Z"
+  },
+  {
+    "id": 16,
+    "slug": "sugar_refined",
+    "title": "Refined Sugar",
+    "description": "Pure refined sugar, 1kg.",
+    "price": 60,
+    "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F4294_1.png&w=384&q=100",
+    "status": "1",
+    "created_at": "2022-11-18T10:15:00.000000Z"
+  },
+  {
+    "id": 17,
+    "slug": "cheese_cheddar",
+    "title": "Cheddar Cheese",
+    "description": "Creamy cheddar cheese, 250g.",
+    "price": 250,
+    "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F4295_1.png&w=384&q=100",
+    "status": "1",
+    "created_at": "2022-12-01T09:30:00.000000Z"
+  },
+  {
+    "id": 18,
+    "slug": "toothpaste_mint",
+    "title": "Mint Toothpaste",
+    "description": "Fresh mint flavor toothpaste, 100g.",
+    "price": 120,
+    "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F4296_1.png&w=384&q=100",
+    "status": "1",
+    "created_at": "2022-12-03T10:00:00.000000Z"
+  },
+  {
+    "id": 19,
+    "slug": "dishwashing_liquid",
+    "title": "Dishwashing Liquid",
+    "description": "Effective grease removal dishwashing liquid, 500ml.",
+    "price": 150,
+    "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F4297_1.png&w=384&q=100",
+    "status": "1",
+    "created_at": "2022-12-05T10:30:00.000000Z"
+  },
+  {
+    "id": 20,
+    "slug": "coconut_milk",
+    "title": "Coconut Milk",
+    "description": "Rich coconut milk, 400ml.",
+    "price": 150,
+    "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F4298_1.png&w=384&q=100",
+    "status": "1",
+    "created_at": "2022-12-07T11:00:00.000000Z"
+  },
   ]
 }
 
