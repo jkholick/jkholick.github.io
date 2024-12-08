@@ -18,7 +18,7 @@
       "id": 2,
       "slug": "banana_fresh",
       "title": "Fresh Banana",
-      "description": "Yellow ripe bananas, 1 dozen.",
+      "description": "Yellow ripe bananas, 2 dozen.",
       "price": 60,
       "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F6287_1.png&w=384&q=100",
       "status": "1",
@@ -73,7 +73,57 @@
       "featured_image": "https://luluindia-prod-assets.s3.ap-south-1.amazonaws.com/pims/grocery/products/820741_1.png",
       "status": "1",
       "created_at": "2022-06-15T08:00:00.000000Z"
-    }
+    },
+    {
+      "id": 8,
+      "slug": "tea_bags",
+      "title": "Tea Bags",
+      "description": "Premium quality tea bags, 100g.",
+      "price": 100,
+      "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F4293_1.png&w=384&q=100",
+      "status": "1",
+      "created_at": "2022-07-01T10:00:00.000000Z"
+    },
+    {
+      "id": 9,
+      "slug": "honey_raw",
+      "title": "Raw Honey",
+      "description": "Organic raw honey, 250g.",
+      "price": 250,
+      "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F4829_1.png&w=384&q=100",
+      "status": "1",
+      "created_at": "2022-08-05T08:30:00.000000Z"
+    },
+   {
+      "id": 10,
+      "slug": "butter_salted",
+      "title": "Salted Butter",
+      "description": "Creamy salted butter, 200g.",
+      "price": 150,
+      "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F4831_1.png&w=384&q=100",
+      "status": "1",
+      "created_at": "2022-08-12T08:30:00.000000Z"
+   },
+   {
+      "id": 11,
+      "slug": "pasta_spaghetti",
+      "title": "Spaghetti Pasta",
+      "description": "Premium quality spaghetti pasta, 400g.",
+      "price": 120,
+      "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F7329_1.png&w=384&q=100",
+      "status": "1",
+      "created_at": "2022-09-10T08:00:00.000000Z"
+   },
+   {
+     "id": 12,
+     "slug": "choco_cereal",
+     "title": "Chocolate Cereal",
+     "description": "Crunchy chocolate cereal, 500g.",
+     "price": 200,
+     "featured_image": "https://www.luluhypermarket.in/_next/image?url=https%3A%2F%2Fluluindia-prod-assets.s3.ap-south-1.amazonaws.com%2Fpims%2Fgrocery%2Fproducts%2F1234_1.png&w=384&q=100",
+     "status": "1",
+     "created_at": "2022-10-01T10:15:00.000000Z"
+   }
   ]
 }
 
